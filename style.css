@@ -1,0 +1,16 @@
+body{
+    text-align:center;
+    background-image:url("backdrop.jpeg");
+    background-position: center;
+    background-size: cover;
+}
+button{
+    background-color: black;
+    color: white;
+}
+canvas{
+    background-color: white;
+    border-style: solid;
+    border-width: 10px;
+    border-color: black;
+}
